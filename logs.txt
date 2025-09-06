@@ -1,0 +1,108 @@
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Site seguro academico - Instituto Nacional de Telecomunicações
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Menu de Opções:
+1. Cadastrar Aluno
+2. Listar Alunos
+3. Atualizar Aluno
+4. Remover Aluno
+5. Sair
+Escolha uma opção: 1
+Digite o nome do aluno: Gabriel
+Digite o email do aluno: alves@inatel.br
+Digite o curso do aluno (GES, GEC, GEA, GEB, GET, GEE, GEP): ges
+Aluno cadastrado com sucesso!
+
+Menu de Opções:
+1. Cadastrar Aluno
+2. Listar Alunos
+3. Atualizar Aluno
+4. Remover Aluno
+5. Sair
+Escolha uma opção: 1
+Digite o nome do aluno: Vitinho
+Digite o email do aluno: sorvetinho@gmail.com
+Digite o curso do aluno (GES, GEC, GEA, GEB, GET, GEE, GEP): get
+Aluno cadastrado com sucesso!
+
+Menu de Opções:
+1. Cadastrar Aluno
+2. Listar Alunos
+3. Atualizar Aluno
+4. Remover Aluno
+5. Sair
+Escolha uma opção: 1
+Digite o nome do aluno: pp
+Digite o email do aluno: pp@passos.com
+Digite o curso do aluno (GES, GEC, GEA, GEB, GET, GEE, GEP): gec
+Aluno cadastrado com sucesso!
+
+Menu de Opções:
+1. Cadastrar Aluno
+2. Listar Alunos
+3. Atualizar Aluno
+4. Remover Aluno
+5. Sair
+Escolha uma opção: 2
+
+Lista de Alunos Cadastrados:
+Matricula, Nome, Email, Curso
+
+Gabriel, alves@inatel.br, GES, GES-1
+
+Vitinho, sorvetinho@gmail.com, GET, GET-1
+
+pp, pp@passos.com, GEC, GEC-1
+
+Menu de Opções:
+1. Cadastrar Aluno
+2. Listar Alunos
+3. Atualizar Aluno
+4. Remover Aluno
+5. Sair
+Escolha uma opção: 3
+Digite a matrícula do aluno que deseja atualizar (EX: 'GES-10'): GEC-1
+Deseja atualizar o nome do aluno? (S - Sim; N - Não): S
+Digite o novo nome: Pedro Passos
+Deseja atualizar o email do aluno? (S - Sim; N - Não): S
+Digite o novo email: pedro@inatel.br
+Deseja atualizar o curso do aluno? (S - Sim; N - Não): S
+Digite o novo curso (GES, GEC, GEA, GEB, GET, GEE, GEP): GEP
+Aluno atualizado com sucesso!
+
+Menu de Opções:
+1. Cadastrar Aluno
+2. Listar Alunos
+3. Atualizar Aluno
+4. Remover Aluno
+5. Sair
+Escolha uma opção: 4
+Digite a matrícula do aluno que deseja remover: GES-1
+Tem certeza que deseja remover o aluno Gabriel? (S - Sim; N - Não): S
+Aluno removido com sucesso!
+
+Menu de Opções:
+1. Cadastrar Aluno
+2. Listar Alunos
+3. Atualizar Aluno
+4. Remover Aluno
+5. Sair
+Escolha uma opção: 2
+
+Lista de Alunos Cadastrados:
+Matricula, Nome, Email, Curso
+
+Vitinho, sorvetinho@gmail.com, GET, GET-1
+
+Pedro Passos, pedro@inatel.br, GEP, GEP-1
+
+Menu de Opções:
+1. Cadastrar Aluno
+2. Listar Alunos
+3. Atualizar Aluno
+4. Remover Aluno
+5. Sair
+Escolha uma opção: 5
+Finalizando sistema
